@@ -14,5 +14,8 @@ Neuen commit erstellen
 git commit
 -a (alle veränderten Dateien automatisch addieren - ganz neue Dateien zählen nicht dazu)
 
+Log anzeigen
+git log
+
 Daten hochladen
 git push
