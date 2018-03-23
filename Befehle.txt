@@ -1,0 +1,18 @@
+git
+---
+
+repository downloaden:
+git clone ${LINK_ZU_REPOSITORY}
+
+Änderungen anzeigen
+git status
+
+Datei zu git addieren
+git add ${Dateiname}
+
+Neuen commit erstellen
+git commit
+-a (alle veränderten Dateien automatisch addieren - ganz neue Dateien zählen nicht dazu)
+
+Daten hochladen
+git push
